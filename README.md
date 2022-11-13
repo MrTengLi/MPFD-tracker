@@ -8,7 +8,6 @@ Correlation filters (CFs), by virtue of their high computational efficiency, hav
 
 # Publication
 
-MPFD Track is proposed in our paper for ICRA 2021. Detailed explanation of our method can be found in the paper:
 
 Changhong Fu, Teng Li, Jin Jin, Junjie Ye and Ziang Cao.
 
